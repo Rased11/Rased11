@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 
 ### 🔍 About Me
 
-- 🏢 **Current Role**: QA Engineer at [KloverCloud]
-- 🎓 **Education**: Bachelor's in Computer Science from [Your University]
+- 🏢 **Current Role**: QA Engineer at [KloverCloud](https://www.klovercloud.com/)
+- 🎓 **Education**: Bachelor's in Computer Science from [BSMRSTU](https://www.bsmrstu.edu.bd/s/)
 - 💼 **Experience**: [2] years in Software Quality Assurance, Test Automation, and Manual Testing
-- 🌐 **Location**: [Dhaka, Bangladesh]
+- 🌐 **Location**: Dhaka, Bangladesh
 
 ---
 
@@ -29,13 +29,13 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 - **Testing Frameworks**: 
-  - TestNG, PyTest, Mocha, Jest
+  - PyTest, TestNG
 
 - **CI/CD & DevOps**: 
-  - Jenkins, GitLab CI, CircleCI, Azure DevOps
+  - Jenkins, GitLab CI, Azure DevOps
 
 - **Project Management & Collaboration**: 
-  - JIRA, Trello, Confluence, Slack
+  - JIRA, Confluence, ClickUp
 
 ---
 
