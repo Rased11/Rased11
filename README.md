@@ -45,6 +45,14 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 
 ---
 
+### 💼 My Previous Jobs
+
+- **CelfiTech** - Software QA Engineer (August 2021 to August 2022)
+- **Frostcherry IT & Software Solutions** - Intern (January 2020 to March 2020)
+
+---
+
+
 ### 🌟 Key Projects
 
 1. **Automated Testing Suite for E-commerce Platform**
