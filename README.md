@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 ![Appium](https://img.shields.io/badge/-Appium-43B02A?style=flat&logo=appium&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-3776AB?style=flat&logo=robot-framework&logoColor=white)
 
 - **Desktop App Automation Testing Tools**: 
-  - Sikuli, Robot Framework
+  ![Sikuli](https://img.shields.io/badge/-Sikuli-45A4DF?style=flat&logo=sikuli&logoColor=white)
+  ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 
 - **Performance Testing Tools**: 
   - JMeter, Locust
