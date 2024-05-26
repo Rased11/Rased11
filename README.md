@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
   - PyTest, TestNG
 
 - **Mobile App Automation Testing**: 
-  - Appium
+![Appium](https://img.shields.io/badge/-Appium-43B02A?style=flat&logo=appium&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-3776AB?style=flat&logo=robot-framework&logoColor=white)
 
 - **Desktop App Automation Testing Tools**: 
   - Sikuli, Robot Framework
