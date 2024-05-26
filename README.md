@@ -1,8 +1,4 @@
-It seems the visitor badge image link is broken or not loading correctly. Let's use an alternative service to generate the visitor badge.
-
-Here's the updated version of your GitHub profile README with a working visitor badge:
-
-## Hi there! 👋 I'm MdSikder
+## Hi there! 👋 I'm Rased Sikder
 
 ### 🧪 Software QA Engineer | 🚀 Passionate about Quality Assurance & Test Automation
 
@@ -12,10 +8,10 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 
 ### 🔍 About Me
 
-- 🏢 **Current Role**: QA Engineer at [Your Company]
+- 🏢 **Current Role**: QA Engineer at [KloverCloud]
 - 🎓 **Education**: Bachelor's in Computer Science from [Your University]
-- 💼 **Experience**: [X] years in Software Quality Assurance, Test Automation, and Manual Testing
-- 🌐 **Location**: [Your City, Country]
+- 💼 **Experience**: [2] years in Software Quality Assurance, Test Automation, and Manual Testing
+- 🌐 **Location**: [Dhaka, Bangladesh]
 
 ---
 
