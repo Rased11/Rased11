@@ -116,6 +116,25 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 - 🌱 Passionate about learning new testing tools and methodologies.
 
 ---
+Your GitHub profile looks great! Adding certifications can certainly enhance your profile and showcase your dedication to continuous learning and skill development. Here's how you can integrate them into your profile:
+
+---
+
+### 🎓 Certifications
+
+1. **SQA and Cyber Security**
+   - **Duration**: June 2022 to August 2022
+   - **Provider**: IT Training BD
+   - **Description**: Completed a comprehensive course covering Software Quality Assurance and Cyber Security, enhancing skills in ensuring software reliability and security.
+
+2. **iOS App Development**
+   - **Duration**: March 2019 to June 2019
+   - **Provider**: Riseup Labs, Dhaka, Bangladesh
+   - **Description**: Acquired proficiency in iOS app development through hands-on training, enabling the creation of high-quality mobile applications for the iOS platform.
+
+---
+
+Feel free to adjust the formatting or provide additional details as needed. These certifications will further highlight your expertise and commitment to professional growth in software quality assurance and development.
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or just have a chat about all things QA! 😄
 
