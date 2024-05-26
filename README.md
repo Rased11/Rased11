@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 
 ### 🔍 About Me
 
-- 🏢 **Current Role**: QA Engineer at [KloverCloud](https://www.klovercloud.com/)
+- 🏢 **Current Role**: SQA Engineer Lead at [KloverCloud](https://www.klovercloud.com/)
 - 🎓 **Education**: Bachelor's in Computer Science from [BSMRSTU](https://www.bsmrstu.edu.bd/s/)
-- 💼 **Experience**: [2] years in Software Quality Assurance, Test Automation, and Manual Testing
+- 💼 **Experience**: 2 years in Software Quality Assurance, Test Automation, and Manual Testing
 - 🌐 **Location**: Dhaka, Bangladesh
 
 ---
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 ### 🛠️ Skills & Expertise
 
 - **Languages & Tools**: 
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
   - ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
   - ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
   - Jenkins, GitLab CI, Azure DevOps
 
 - **Project Management & Collaboration**: 
-  - JIRA, Confluence, ClickUp
+  - JIRA, Confluence, ClickUp, Xmind
 
 ---
 
