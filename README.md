@@ -65,9 +65,9 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Personal Website](https://www.yourwebsite.com)
-- ✉️ [Email](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-sikder/)
+- 🌐 [Personal Website](https://poraginsights.blogspot.com/)
+- ✉️ [Email](rased.sikder@klovercloud.com)
 
 ---
 
