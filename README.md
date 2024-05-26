@@ -34,7 +34,8 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
   ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 
 - **Performance Testing Tools**: 
-  - JMeter, Locust
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+![Locust](https://img.shields.io/badge/-Locust-0DBA3E?style=flat&logo=locust&logoColor=white)
 
 - **Security Testing Tools**: 
   - Nmap, Penetration Testing, SQL Injection
