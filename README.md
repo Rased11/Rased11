@@ -133,18 +133,18 @@ Your GitHub profile looks great! Adding certifications can certainly enhance you
    - **Description**: Acquired proficiency in iOS app development through hands-on training, enabling the creation of high-quality mobile applications for the iOS platform.
 Certainly! Including your achievement in the short film competition adds another dimension to your profile, highlighting your creativity and involvement in extracurricular activities. Here's how you can incorporate it:
 
-### Awards and Achievements
+Absolutely! Adding an icon will make your Awards and Achievements section more visually appealing. Here's how you can include it along with your position as "Assistant Director":
+
+### 🏆 Awards and Achievements
 
 - **6th Place in Short Film Competition 2016**
   - **Event:** Chhayanaut, Bangladesh
   - **Description:** Secured 6th place in a prestigious short film competition organized by Chhayanaut, Bangladesh. The film titled "UNTOLD" focused on addressing the issue of ragging, contributing to awareness and advocacy against the practice.
-  - **Film Source:** [UNTOLD - Bangladeshi anti-ragging short film](https://www.youtube.com/watch?v=VfnRPRW5rNg)
+  - **Position:** Assistant Director
+  - **Film Source:** [UNTOLD - Bangladeshi anti-ragging short film](source_link)
   - **Organization:** BSMRSTU Short Film
 
-This addition showcases your versatility and involvement in creative endeavors outside of your professional field, providing a well-rounded view of your skills and interests.
 ---
-
-Feel free to adjust the formatting or provide additional details as needed. These certifications will further highlight your expertise and commitment to professional growth in software quality assurance and development.
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or just have a chat about all things QA! 😄
 
