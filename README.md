@@ -52,9 +52,9 @@ Project Management & Collaboration:
 
 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rased11&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSikder&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rased11&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSikder&layout=compact&theme=radical)
 
 🤝 Let's Connect
 
@@ -81,5 +81,5 @@ Thanks for visiting my profile! Feel free to explore my repositories and reach o
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/Rased11)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.MdSikder)](https://github.com/MdSikder)
 
