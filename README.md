@@ -131,7 +131,17 @@ Your GitHub profile looks great! Adding certifications can certainly enhance you
    - **Duration**: March 2019 to June 2019
    - **Provider**: Riseup Labs, Dhaka, Bangladesh
    - **Description**: Acquired proficiency in iOS app development through hands-on training, enabling the creation of high-quality mobile applications for the iOS platform.
+Certainly! Including your achievement in the short film competition adds another dimension to your profile, highlighting your creativity and involvement in extracurricular activities. Here's how you can incorporate it:
 
+### Awards and Achievements
+
+- **6th Place in Short Film Competition 2016**
+  - **Event:** Chhayanaut, Bangladesh
+  - **Description:** Secured 6th place in a prestigious short film competition organized by Chhayanaut, Bangladesh. The film titled "UNTOLD" focused on addressing the issue of ragging, contributing to awareness and advocacy against the practice.
+  - **Film Source:** [UNTOLD - Bangladeshi anti-ragging short film](https://www.youtube.com/watch?v=VfnRPRW5rNg)
+  - **Organization:** BSMRSTU Short Film
+
+This addition showcases your versatility and involvement in creative endeavors outside of your professional field, providing a well-rounded view of your skills and interests.
 ---
 
 Feel free to adjust the formatting or provide additional details as needed. These certifications will further highlight your expertise and commitment to professional growth in software quality assurance and development.
