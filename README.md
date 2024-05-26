@@ -1,3 +1,7 @@
+It seems the visitor badge image link is broken or not loading correctly. Let's use an alternative service to generate the visitor badge.
+
+Here's the updated version of your GitHub profile README with a working visitor badge:
+
 ## Hi there! 👋 I'm MdSikder
 
 ### 🧪 Software QA Engineer | 🚀 Passionate about Quality Assurance & Test Automation
@@ -92,4 +96,4 @@ Thanks for visiting my profile! Feel free to explore my repositories and reach o
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=MdSikder.MdSikder)](https://github.com/MdSikder)
+![Visitors](https://komarev.com/ghpvc/?username=MdSikder&color=blue)
