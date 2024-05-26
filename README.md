@@ -37,6 +37,21 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 - **Testing Frameworks**: 
   - PyTest, TestNG
 
+- **Mobile App Automation Testing**: 
+  - Appium
+
+- **Desktop App Automation Testing Tools**: 
+  - Sikuli, Robot Framework
+
+- **Performance Testing Tools**: 
+  - JMeter, Locust
+
+- **Security Testing Tools**: 
+  - Nmap, Penetration Testing, SQL Injection
+
+- **Concepts**:
+  - SDLC, STLC, TDD, OOP
+
 - **CI/CD & DevOps**: 
   - Jenkins, GitLab CI, Azure DevOps
 
